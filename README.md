@@ -4,9 +4,9 @@
 ![GitHub](https://img.shields.io/github/license/tashakim/DS4A_collab)
 ![GitHub followers](https://img.shields.io/github/followers/tashakim?label=Followers&style=social)
 
-This project was created through the Fall 2020 DS4A Summit, to better understand the relationship between product reviews and sales, to make better recommendations for Amazon's strategies in revenue generation.
+This project was created through the Fall 2020 DS4A Summit, to better understand the relationship between product reviews and sales, to make recommendations for Amazon's strategies in revenue generation.
 
-Mentors: Annie Filippo, Dil Rahmat
+Mentors: Annie Filippo, Dil Rahmat (AWS)
 
 ## Problem Statement
 (To be added)
